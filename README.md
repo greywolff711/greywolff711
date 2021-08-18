@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 </p>
 <!--Bye bye-->
 <h2 align=center>Sayonara 👋</h2>
-<img align=center src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Fdd2a6b14392174632e1c7016da269c2f%2Ftumblr_nlti0gtqhv1sh40dxo1_1280.gif&f=1&nofb=1" width=400>
+<p align=center><img align=center src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Fdd2a6b14392174632e1c7016da269c2f%2Ftumblr_nlti0gtqhv1sh40dxo1_1280.gif&f=1&nofb=1" width=400></p>
