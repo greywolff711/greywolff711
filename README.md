@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <li>I like to binge watch  anime and play valorant 🎮.</li>
 <li>Pro badminton 🏸 player <i>(self proclaimed)</i></li>
 <!--Contact-->
-<h2>How to reach 🤙</h2><hr/>
+<h2>How to reach 🤙</h2>
 <p align=center>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
