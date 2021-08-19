@@ -12,15 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--Myself-->
-<h1>Hello there👀</h1>
-<p>
+
+# Hello there👀
+
 <img align=right src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F7063%2Ff1df36bc538b831c2796c1df6a2e21cca6a99775r1-500-281_hq.gif&f=1&nofb=1" width=210 height=150>
+<ul>
 <li>My name is <strong><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Harshit Jadli</a></strong>.</li>
 <li>Currently a third year in Vellore Institute of Technology 🏫.</li>
 <li>I like to binge watch  anime and play valorant 🎮.</li>
 <li>Pro badminton 🏸 player <i>(self proclaimed)</i></li>
-</p>
+</ul>
 <!--Skillz-->
 <h2>Languages and tools 🔧</h2>
 <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
