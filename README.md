@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://im.ezgif.com/tmp/ezgif-1-7ccbba298777.gif"></a>
 <h1 align=center>Hello there👀</h1>
-
 <img align=right src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F7063%2Ff1df36bc538b831c2796c1df6a2e21cca6a99775r1-500-281_hq.gif&f=1&nofb=1" width=210 height=150>
 <ul>
 <li>My name is <strong><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Harshit Jadli</a></strong>.</li>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <li>Pro badminton 🏸 player <i>(self proclaimed)</i></li>
 </ul>
 <!--Skillz-->
-<h2 align=center>Languages and tools 🔧</h2>
+<h2>Languages and tools 🔧</h2>
 <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></p>
