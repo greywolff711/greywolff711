@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <li>I like to binge watch  anime and play valorant 🎮.</li>
 <li>Pro badminton 🏸 player <i>(self proclaimed)</i></li>
 </ul>
+<br>
 <!--Skillz-->
 <h2>Languages and tools 🔧</h2>
 <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
