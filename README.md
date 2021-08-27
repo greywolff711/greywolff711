@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align=center><a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://im.ezgif.com/tmp/ezgif-1-7ccbba298777.gif"></a></p>
+<p align=center><a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/greywolff711/greywolff711/my_name.gif"></a></p>
 <h1 align=center>Hello there👀</h1>
 <img align=right src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F7063%2Ff1df36bc538b831c2796c1df6a2e21cca6a99775r1-500-281_hq.gif&f=1&nofb=1" width=210 height=150>
 <ul>
