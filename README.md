@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align=center><a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/greywolff711/greywolff711/blob/main/my_name.gif"></a></p>
 <h1 align=center>Hello there👀</h1>
-<img align=right src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F7063%2Ff1df36bc538b831c2796c1df6a2e21cca6a99775r1-500-281_hq.gif&f=1&nofb=1" width=210 height=150>
+<img align=right src="https://github.com/greywolff711/greywolff711/blob/main/intro.gif" width=210 height=150>
 <ul>
 <li>My name is <strong><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Harshit Jadli</a></strong>.</li>
 <li>Currently a third year in Vellore Institute of Technology 🏫.</li>
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 </p>
 <!--Bye bye-->
 <h2 align=center>Sayonara 👋</h2>
-<p align=center><img align=center src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Fdd2a6b14392174632e1c7016da269c2f%2Ftumblr_nlti0gtqhv1sh40dxo1_1280.gif&f=1&nofb=1" width=400></p>
+<p align=center><img align=center src="https://github.com/greywolff711/greywolff711/blob/main/sayonara.gif" width=400></p>
